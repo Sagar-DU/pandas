@@ -27,3 +27,21 @@ print(df.describe())
 # Display the column names of the DataFrame
 print("\nColumn names of the DataFrame:")
 print(df.columns)
+
+# Display the data types of each column
+print("\nData types of each column:")
+print(df.dtypes)
+
+# Display the shape of the DataFrame
+print("\nShape of the DataFrame:")
+print(df.shape)
+
+# Display the index of the DataFrame
+print("\nIndex of the DataFrame:")
+print(df.index)
+
+# Display the values of the DataFrame
+print("\nValues of the DataFrame:")
+print(df.values)
+
+# This is all the basics of creating and exploring a DataFrame in pandas. You can further manipulate the DataFrame using various methods and functions provided by the pandas library.
