@@ -40,6 +40,6 @@ print(df.shape)
 print("\nIndex of the DataFrame:")
 print(df.index)
 
-# # Display the values of the DataFrame
-# print("\nValues of the DataFrame:")
-# print(df.values)
+# Display the values of the DataFrame
+print("\nValues of the DataFrame:")
+print(df.values)
