@@ -23,3 +23,7 @@ print(df.info())
 # Display summary statistics of the DataFrame
 print("\nSummary statistics of the DataFrame:")
 print(df.describe())
+
+# Display the column names of the DataFrame
+print("\nColumn names of the DataFrame:")
+print(df.columns)
